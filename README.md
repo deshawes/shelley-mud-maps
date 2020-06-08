@@ -8,4 +8,4 @@ An aid to Cardano Shelley Friends and Family exercises:
  The drawings are not a rigorous tutorial on the exercises but an aid in what you are trying to achieve and a place-holder for what you have already generated. 
  
  
- Drawn in Microsoft Visio 2015 and presented in A3 pdfs
+ Drawn in Microsoft Visio and presented in A3 pdfs
